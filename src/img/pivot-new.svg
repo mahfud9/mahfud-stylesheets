@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52 (66869) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/Gray/Application</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-28.5952147%" y1="0%" x2="200.603311%" y2="217.99958%" id="linearGradient-1">
+            <stop stop-color="#000000" stop-opacity="0.7" offset="0%"></stop>
+            <stop stop-color="#BBBBBB" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon/Navigation/Gray/Application" fill="url(#linearGradient-1)">
+            <g id="Icon/Gray/Application">
+                <circle id="Oval" cx="2.89655172" cy="2.89655172" r="2.89655172"></circle>
+                <circle id="Oval-Copy-4" cx="2.89655172" cy="12" r="2.89655172"></circle>
+                <circle id="Oval-Copy-2" cx="12" cy="2.89655172" r="2.89655172"></circle>
+                <circle id="Oval-Copy-5" cx="12" cy="12" r="2.89655172"></circle>
+                <circle id="Oval-Copy-3" cx="21.1034483" cy="2.89655172" r="2.89655172"></circle>
+                <circle id="Oval-Copy-6" cx="21.1034483" cy="12" r="2.89655172"></circle>
+                <circle id="Oval-Copy-9" cx="2.89655172" cy="21.1034483" r="2.89655172"></circle>
+                <circle id="Oval-Copy-8" cx="12" cy="21.1034483" r="2.89655172"></circle>
+                <circle id="Oval-Copy-7" cx="21.1034483" cy="21.1034483" r="2.89655172"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

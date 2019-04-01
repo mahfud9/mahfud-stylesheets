@@ -1,13 +1,25 @@
+#header {
+    z-index: 1002;
+    background: #fff;
+    margin: 0 auto;
+    height: 64px;
+    top: 0;
+    left: 0;
+    padding: 0 24px 0 30px;
+    -webkit-transition: top .5s cubic-bezier(.645,.045,.355,1);
+    -o-transition: top .5s cubic-bezier(.645,.045,.355,1);
+    transition: top .5s cubic-bezier(.645,.045,.355,1);
+    font-family: Montserrat;
+}
+*{
+    @import url('https://fonts.googleapis.com/css?family=Montserrat');
+}
 img{
- max-width: 100%;
+    max-width: 100%;
 }
-
-.title{
-	width: 400px;
+.nbanner-image{
+    padding-top:64px;
 }
-.subtitle{
-	width: 400px;
-}
-.hero{
-	padding: 5em 0;
+.nbanner-about{
+    margin-top: 185px;
 }
