@@ -3,12 +3,23 @@ var gulpMinifyCss = require('gulp-minify-css');
 var gulpConcat = require('gulp-concat');
 var gulpUglify = require('gulp-uglify');
 var gulpHtmlmin = require('gulp-htmlmin');
-var gulp = require('gulp');
 var gulpConnect = require('gulp-connect');
 var clean = require('gulp-clean');
 var gulpSequence = require('gulp-sequence');
 var sass = require('gulp-sass');
 var image = require('gulp-image');
+const autoprefixer = require('gulp-autoprefixer');
+
+//autoprefixer
+gulp.task('default', () =>
+    gulp.src('src/app.css')
+        .pipe(autoprefixer({
+            browsers: ['last 2 versions'],
+            cascade: false
+        }))
+        .pipe(gulp.dest('dist'))
+);
+//end autoprefixer
 
 //images
 gulp.task('img', function () {

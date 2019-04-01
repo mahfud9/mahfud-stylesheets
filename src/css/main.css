@@ -1,2 +1,33 @@
 body {
-  background-color: blue; }
+  background-color: #6495ED; }
+
+.navbar {
+  padding: 6px; }
+
+a {
+  color: white; }
+
+.btn-default {
+  color: #f8f9fa;
+  border-color: #f8f9fa;
+  background-color: #639bff; }
+
+img {
+  max-width: 100%; }
+
+.title {
+  width: 400px; }
+
+.subtitle {
+  width: 400px; }
+
+.hero {
+  padding: 5em 0; }
+
+.btn-hero {
+  width: 231px;
+  height: 50px;
+  font-size: 21px; }
+
+.section_vdo {
+  padding: 5em 0; }
