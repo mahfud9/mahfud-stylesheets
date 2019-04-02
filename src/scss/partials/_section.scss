@@ -1,14 +1,16 @@
 .section-nbanner {
     padding-bottom: 80px;
 }
-.section-nbanner {
-    background-image: -webkit-gradient(linear,left bottom,left top,from(#fff),to(#dbf9f1));
-    background-image: -webkit-linear-gradient(bottom,#fff,#dbf9f1);
-    background-image: -o-linear-gradient(bottom,#fff,#dbf9f1);
-    background-image: linear-gradient(to top,#fff,#dbf9f1);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    padding-top: 120px;
-    position: relative;
+.section-jam{
+    padding:60px 0;
+}
+.section-kapal{
+    padding:60px 0;
+}
+.section-subtitle{
+    margin-bottom: 60px;
+}
+.footer{
+    background-color: whitesmoke;
+    padding:30px 0;
 }

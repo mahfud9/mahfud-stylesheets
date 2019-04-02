@@ -1,10 +1,9 @@
-.about-title{
-	font-family: 'Montserrat', sans-serif;
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+.About-title{
 	font-size: 30px;
     font-weight: 800;
 }
 .nbanner-about__line{
-	font-family: 'Montserrat', sans-serif;
     width: 50px;
     height: 6px;
     background: #38bc25;
@@ -13,20 +12,17 @@
     margin-top: 8px;
 }
 .nbanner-about__desc{
-	font-family: 'Montserrat', sans-serif;
     opacity: .5;
     font-size: 15px;
     line-height: 24px;
     margin-top: 25px;
 }
 .nbanner-header__title {
-	font-family: 'Montserrat', sans-serif;
     font-size: 34px;
     font-weight: 800;
     margin-bottom: 8px;
 }
 .nbanner-header__copy {
-	font-family: 'Montserrat', sans-serif;
     font-size: 17px;
     line-height: 2;
     color: rgba(0,0,0,.38);
@@ -36,23 +32,35 @@
 	font-size: 22px;
     margin-bottom: 12px;
     font-weight: 800;
-    font-family: Montserrat;
 }
 .p--1{
 	opacity: .5;
 	font-size: 15px;
     line-height: 1.88;
-    font-family: Montserrat;
 }
 .content{
 	padding-top: 15px;
 }
 .subtitle__line{
-    width: 50px;
+    width: 56px;
     height: 6px;
     background: #38bc25;
     margin-right: auto;
     border-radius: 12px;
     margin-top: 8px;
-    margin: 0 54rem;
+    margin: 14px 56rem;
+}
+.subtitle{
+	padding:50px 0;
+}
+.subtitle-subtitle__mt03{
+	font-size: 30px;
+    font-weight: 800;
+}
+.text-right{
+	text-align: right;
+}
+.fab{
+	font-size: 25px;
+    padding: 0px 11px;
 }
